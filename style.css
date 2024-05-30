@@ -310,6 +310,7 @@ img {
     margin: 0 40px;
     overflow: hidden;
     border-radius: 25px;
+    padding: 20px;
 }
 
 .card {
